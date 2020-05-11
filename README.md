@@ -5,7 +5,7 @@
  - react-router (*Single Page Application*)
  - bootstrap
  
-*source files in `FrontEnd/` folder*
+*source files in `Web App/` folder*
 
 ## back-end
 
@@ -13,7 +13,7 @@
  - `Express`
  - `MongoDB`
 
-*source files in `BackEnd/` folder*
+*source files in `App Service/` folder*
 
 ## Env File Setup for Back-End
 - Change config/config.config.env to config/config.env
