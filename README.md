@@ -1,5 +1,3 @@
-<img src="Screenshots/HomePage-ReactApp.PNG"/>
-
 
 ## front-end
 
